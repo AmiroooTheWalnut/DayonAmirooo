@@ -1,4 +1,0 @@
-debian/dayon.jar usr/bin/dayon
-debian/*.sh usr/bin/dayon
-debian/*.desktop usr/share/applications
-debian/dayon.png usr/share/icons
