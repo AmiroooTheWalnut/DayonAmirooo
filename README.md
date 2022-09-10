@@ -4,6 +4,8 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=RetGal_Dayon&metric=alert_status)](https://sonarcloud.io/dashboard?id=RetGal_Dayon)
 [![dayon](https://snapcraft.io/dayon/badge.svg)](https://snapcraft.io/dayon)
 
+This is a fork from 1_10_9 version with improvements and autoconnection to make sure internet interruption will not be problematic. This fork is for Netbeans and does not follow the source repository setup.
+
 Dayon! is an easy to use, cross-platform remote desktop assistance solution.
 
 It consists of two parts - one for the assistant and one for the assisted. Both are included in one single package.
